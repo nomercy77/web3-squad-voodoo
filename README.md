@@ -1,5 +1,4 @@
 # web3-squad-voodoo
-Contains codebase for Algovera R4 project https://forum.algovera.ai/t/defining-means-to-a-web3-project-finding-synergetic-collaborators-and-funders-in-a-dao/115
 
 One of the key aspects to Active Inference framework is autopoietic creation and maintenance of a complex system. This could be leveraged for team formation in research environments.
 
