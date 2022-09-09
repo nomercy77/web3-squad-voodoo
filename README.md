@@ -21,12 +21,7 @@ Does this require/imply a lab-level generative model?
 Participant (entity-level) generative model, and interacting Organizational generative models?
 Nested models (Ecosystem → Institution → Organizational Unit → Project → Team → Individual) and multiscale policy selection.
 
-Deliverables
-
-Defining a research initiative.
-Forming a research group and nested sub-groups wiith aligned people onboarded and in a synergetic configuration.
-Next logical step would be to find alignment between funding campaigns and the project using same alignment theory to start out the project.
-Squad
+By
 Amit Singh (metamyth)
 Researcher at Active Inference Lab
 Twitter: https://twitter.com/not_amyth?t=BSpbbssQAIkrRAgg1ZTUIQ&s=09
