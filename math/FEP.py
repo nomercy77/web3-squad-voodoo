@@ -1,6 +1,6 @@
 import numpy as np
 from pymdp import utils,maths
-
+from utils import get_KL, get_symmetry
 
 def variational_free_energy(prior, likelihood_dist):
   joint_prob = likelihood_dist * prior # element-wise product of the likelihood of each hidden state, given the observation, with the prior probability assigned to each hidden state
