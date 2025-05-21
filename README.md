@@ -66,7 +66,7 @@ The main workflow is demonstrated in the [tutorial notebook](tutorial/project_vo
 - **Symmetry**: Measures the dot product (alignment) between two skill vectors, modulated by a degree parameter.
 
 ## References
-- [Active Inference and Autopoiesis](https://forum.algovera.ai/t/defining-means-to-a-web3-project-finding-synergetic-collaborators-and-funders-in-a-dao/115)
+- [Active Inference and Autopoiesis]((https://en.wikipedia.org/wiki/Free_energy_principle))
 - [inferactively-pymdp documentation](https://github.com/infer-actively/pymdp)
 
 
