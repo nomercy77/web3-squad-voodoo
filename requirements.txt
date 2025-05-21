@@ -1,0 +1,5 @@
+inferactively-pymdp
+numpy
+scipy
+pandas
+matplotlib 
